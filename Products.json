@@ -1,0 +1,27 @@
+[
+  {
+    "ProductCode": 121,
+    "ProductName": "Хлеб",
+    "ProductSum": 25
+  },
+  {
+    "ProductCode": 725,
+    "ProductName": "Мука",
+    "ProductSum": 60
+  },
+  {
+    "ProductCode": 854,
+    "ProductName": "Рис",
+    "ProductSum": 81
+  },
+  {
+    "ProductCode": 129,
+    "ProductName": "Гречка",
+    "ProductSum": 39
+  },
+  {
+    "ProductCode": 74,
+    "ProductName": "Сыр",
+    "ProductSum": 299
+  }
+]
